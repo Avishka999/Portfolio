@@ -12,7 +12,7 @@ Create a production build with `npm run build`.
 ## Personalise
 
 - Add a profile photo at `src/assets/profile.jpg` and set `profileImage` in `src/data/personalInfo.js`.
-- Replace `public/Avishka-CV.pdf` with the actual CV using that exact filename.
+- The downloadable CV is served from `public/Avishka-CV.pdf`; replace that file with the latest CV while keeping the filename unchanged.
 - Update the GitHub, LinkedIn and email values in `src/data/personalInfo.js` if they change.
 - The Flood Detection project displays the supplied preview in `src/assets/flood-detection-feature.png`; Yum Yard and NULL POINT previews are also included. Add other screenshots there and update `src/data/projects.js`.
 - Complete AuraFinance's project description and technology list in `src/data/projects.js` when those details are ready.
